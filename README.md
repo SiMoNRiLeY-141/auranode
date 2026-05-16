@@ -49,6 +49,11 @@ Furthermore, because factory technicians often wear heavy, oil-stained PPE, trad
 ### **Images**
 
 <p align="center">
+<img src="/assets/images/auranode/cover.jpg" width="800"><br/>
+<i>AuraNode Assembly</i>
+</p>
+
+<p align="center">
 <img src="/assets/images/auranode/serial-output.jpg" width="800"><br/>
 <i>AuraNode pushing real-time Bluetooth diagnostics to a remote supervisor during a simulated machine failure.</i>
 </p>
