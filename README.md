@@ -53,11 +53,6 @@ Furthermore, because factory technicians often wear heavy, oil-stained PPE, trad
 <i>AuraNode Assembly</i>
 </p>
 
-<p align="center">
-<img src="/assets/images/auranode/serial-output.jpg" width="800"><br/>
-<i>AuraNode pushing real-time Bluetooth diagnostics to a remote supervisor during a simulated machine failure.</i>
-</p>
-
 ### **Videos**
 
 <video controls width="100%">
@@ -124,9 +119,11 @@ BluetoothSerial
 ```
 
 ## License (Optional)
+
 This project is submitted under the MYOSA Hackathon rules.
 
 ---
 
 ## Contribution Notes (Optional)
+
 As this is a hackathon submission, the core functionality is locked. However, discussions and feedback are welcome!
