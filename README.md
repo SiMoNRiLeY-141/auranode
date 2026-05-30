@@ -109,7 +109,7 @@ BluetoothSerial
 
 ```
 
-## File Structure (Optional)
+## File Structure
 
 ```text
 /auranode
@@ -118,12 +118,12 @@ BluetoothSerial
 └─ README.md
 ```
 
-## License (Optional)
+## License
 
 This project is submitted under the MYOSA Hackathon rules.
 
 ---
 
-## Contribution Notes (Optional)
+## Contribution Notes
 
 As this is a hackathon submission, the core functionality is locked. However, discussions and feedback are welcome!
